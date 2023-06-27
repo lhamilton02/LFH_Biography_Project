@@ -1,0 +1,62 @@
+body {
+
+    background-color: gray;
+    color: black;
+    margin: 50px;
+    border-bottom-color: coral;
+
+
+}
+
+
+html    {
+
+    background:url(TuringMachine\ img);
+    background-repeat: no-repeat;
+    background-size:auto;
+
+
+}
+p   {
+
+    padding: 35px;
+    font: 15px Arial, sans-serif;
+    text-align: center;
+    text-decoration-line: underline;
+
+}
+p2  {
+
+    padding: 35px;
+    font: 15px Arial, small-caps;
+    text-align: center;
+
+}
+
+
+img{
+    float:left;
+    align: left;
+    cursor:grab;
+
+
+}
+
+h1{
+color: rgb(70, 12, 12);
+
+}
+h2{
+border: 5px dotted blue;;
+color:pink;
+text-align:center;
+
+}
+
+h3  {
+
+border: 5px dotted pink;
+color: blue;
+text-align:center;
+
+}
